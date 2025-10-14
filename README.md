@@ -11,7 +11,7 @@
 ### 🛠️ My Development Toolkit
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,mysql,git,github,vscode,pycharm,html,css,js,cpp,csharp,php" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,mysql,git,github,vscode,pycharm,html,css,js,cpp,c#,php" />
 </div>
 
 ---
