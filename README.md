@@ -1,9 +1,9 @@
 <div align="center">
   <!-- Можно добавить свою гифку позже -->
-  <img src="" width="800" alt="Python Developer"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTUzOHlveDd1cnRnZDlsNXoxdmlrZTFic2I0dXB4amszOGN2dzRpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aorAs0VoAlCmY/giphy.gif" width="30px" width="800" alt="Python Developer"/>
 </div>
 
-<h1 align="center">Hi <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTUzOHlveDd1cnRnZDlsNXoxdmlrZTFic2I0dXB4amszOGN2dzRpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aorAs0VoAlCmY/giphy.gif" width="30px">, I'm Ilya</h1>
+<h1 align="center">Hi, I'm Ilya</h1>
 <h3 align="center">A motivated Python Trainee from Belarus</h3>
 
 ---
