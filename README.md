@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Можно добавить свою гифку позже -->
-  <video src="https://motionbgs.com/media/5569/black-and-white-waves.960x540.mp4" width="800" alt="Python Developer"/>
+  <video src="https://motionbgs.com/media/5569/black-and-white-waves.960x540.mp4" width="800" alt="Python Developer"> </video>
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ilya</h1>
-<h3 align="center">A passionate Python developer from Belarus</h3>
+<h3 align="center">A motivated Python developer from Belarus</h3>
 
 ---
 
