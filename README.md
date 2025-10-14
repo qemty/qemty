@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Можно добавить свою гифку позже -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTUzOHlveDd1cnRnZDlsNXoxdmlrZTFic2I0dXB4amszOGN2dzRpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aorAs0VoAlCmY/giphy.gif" width="800" alt="Python Developer"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTUzOHlveDd1cnRnZDlsNXoxdmlrZTFic2I0dXB4amszOGN2dzRpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aorAs0VoAlCmY/giphy.gif" width="1000" alt="Python Developer"/>
 </div>
 
 <h1 align="center">Hi, I'm Ilya</h1>
